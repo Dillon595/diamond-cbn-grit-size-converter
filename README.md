@@ -2,6 +2,11 @@
 
 A browser-based reference tool for converting and comparing **diamond and CBN abrasive grit sizes** across common designation systems, including FEPA, mesh, and approximate micron ranges.
 
+## Live Demo
+
+[Launch the Grinding Wheel Specification Generator](https://sinogrind.com/tools/diamond-cbn-grit-size-converter)
+
+No installation or build tools are required. The generator runs directly in a modern web browser.
 
 ## What This Tool Does
 
